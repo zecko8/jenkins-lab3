@@ -8,7 +8,7 @@ pipeline{
     }
     stage('Stage2') {
       steps {
-        sggggggh 'echo "stage 2"'
+        sh 'echo "stage 2"'
       }
     }
   }
