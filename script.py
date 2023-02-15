@@ -1,1 +1,1 @@
-prinffffft("Ciao da Pyhton")
+print("Ciao da Pyhton")
