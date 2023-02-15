@@ -1,6 +1,6 @@
 pipeline {
   agent {
-    docker { imgae 'python' }
+    docker { image 'python' }
   }
   stages {
     stage('Run Python Script') {
